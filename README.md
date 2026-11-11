@@ -38,8 +38,8 @@ por um hub central. Cada produto resolve a rotina de um tipo de negócio:
 | 🎾 | **Arena** | Quadras e escolinhas: reservas e aulas |
 | 🧭 | **Hub** | O console que liga tudo: clientes, cobrança, provisionamento e saúde dos sistemas |
 
-> A maior parte desses repositórios é privada. Aqui no perfil ficam os projetos
-> abertos, os estudos e os experimentos.
+> Os repositórios são privados: o código é dos produtos e dos clientes. Quer ver
+> algo funcionando? Me chama que eu mostro.
 
 ### 🧰 Ferramentas do dia a dia
 
@@ -59,7 +59,7 @@ o velho e bom "quem decide isso?".
 ### 📫 Vamos conversar
 
 Gosta de produto, de gestão ou de código (ou dos três)? Me chama pelo site da
-[JP Projects](https://jpproject.com.br) ou abre uma issue em algum repositório aqui.
+[JP Projects](https://jpproject.com.br).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111a35,100:5b8cff&height=90&section=footer" width="100%" alt="">
