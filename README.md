@@ -44,7 +44,7 @@ por um hub central. Cada produto resolve a rotina de um tipo de negócio:
 ### 🧰 Ferramentas do dia a dia
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,gcp,vite,tailwind,html,css,flutter,dart,git,github,githubactions,cloudflare,figma,vscode&perline=9" alt="React, TypeScript, JavaScript, Node.js, Firebase, Google Cloud, Vite, Tailwind, HTML, CSS, Flutter, Dart, Git, GitHub, GitHub Actions, Cloudflare, Figma, VS Code">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,gcp,vite,tailwind,html,css,git,github,githubactions,cloudflare,figma,vscode&perline=9" alt="React, TypeScript, JavaScript, Node.js, Firebase, Google Cloud, Vite, Tailwind, HTML, CSS, Git, GitHub, GitHub Actions, Cloudflare, Figma, VS Code">
 </p>
 
 **Do lado da gestão:** PMO, metodologias ágeis, gestão de portfólio, indicadores e
@@ -55,7 +55,6 @@ o velho e bom "quem decide isso?".
 - Escrevo os nomes das funções em português quando o código é meu. `cobrarMensalidade()` me explica melhor do que `processPayment()`.
 - Acredito que número que mente é pior que número nenhum, então todo dashboard que eu faço tem que bater com a fonte.
 - Trato pair programming com IA como trato um time: escopo fechado, revisão crítica e ninguém publica sem eu ver.
-- Comecei estudando Flutter e acabei com um ecossistema inteiro em React e Firebase. Curiosidade dá nisso.
 
 ### 📫 Vamos conversar
 
